@@ -1,9 +1,11 @@
 # Dermafie - Facial Analysis for Dermatological Health Awareness
 **Dermafie** is an **Android** mobile application that can scan and analysis the skin condition on people's faces in real time using **Machine Learning** model. The app will be deployed with our **Cloud Computing** backend API. <br/> 
 
-This application served as the capstone project of Bangkit Academy 2024 H1
+**This application served as the capstone project final deliverance of Bangkit Academy 2024 H1** <br/>
 
-## Team Member
+### Group ID : C241-PS200 ###
+
+### Team Member
 | Name | Bangkit ID | GitHub |
 |------|------------|--------|
 | Ravi Mahesa Pramudya | M001D4KY1681 | [ravimahesa](https://github.com/ravimahesa) |
