@@ -1,5 +1,5 @@
 # Dermafie - Facial Analysis for Dermatological Health Awareness
-**Dermafie** is an **Android** mobile application that can scan and analysis the skin condition on people's faces in real time using **Machine Learning** model. The app will be deployed with our **Cloud Computing** backend API. <br/> 
+**Dermafie** is an **Android** mobile application that can scan and analysis the skin condition on people's faces in real time using **Machine Learning** model. The app will be deployed with our **Cloud Computing** using the Google Cloud Console. <br/> 
 
 **This application served as the capstone project final deliverance of Bangkit Academy 2024 H1** <br/>
 
