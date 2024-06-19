@@ -15,3 +15,9 @@
 | Ramadhan Alfatih | C006D4KY0875  | Cloud Computing | [RamadhanAlfatih](https://github.com/RamadhanAlfatih) |
 | Arya Maulidzar Syahriza Putra | A006D4KY4376  | Mobile Development | [Maulidzar](https://github.com/Maulidzar) |
 | Baskara Adi Nugraha | A015D4KY4548  | Mobile Development | [Mantraism](https://github.com/Mantraism) |
+
+
+For further information of the code, You can check in our repositories
+- [Machine Learning Models](https://github.com/Dermafie/dermafie-ml)
+- [Backends API](https://github.com/Dermafie/dermafie-be)
+- [Android Application](https://github.com/Dermafie/dermafie-fe)
